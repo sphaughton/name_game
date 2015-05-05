@@ -6,4 +6,4 @@ script:
 
 addons:
   code_climate:
-    repo_token: 6701f25f3c8304c6516a2987fff321bee72241b142925f3f033046b74e4ab6ef
+    repo_token: e08a3d2f8f0f661b13a8c50f7b395a63c54eaa14f875ba81374cbe0642f92ed8
