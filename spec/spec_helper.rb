@@ -3,6 +3,9 @@ ENV['RACK_ENV'] = 'test'
 require './app/server'
 require 'capybara/rspec'
 require 'database_cleaner'
+require "codeclimate-test-reporter"
+
+CodeClimate::TestReporter.start
 
 Capybara.app = NameGame
 
