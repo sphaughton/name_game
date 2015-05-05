@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/sphaughton/name_game/badges/gpa.svg)](https://codeclimate.com/github/sphaughton/name_game)
+
 Name Game
 ======
 
@@ -19,6 +21,7 @@ Name Game is tested with RSpec/Capybara. You can run these tests from the comman
 
 To Do
 ------
+- [ ] Travis CI build
 - [ ] CSS styling
 - [ ] Fix missing image bug
 - [ ] Rspec ```name_game rb.10``` test currently failing
