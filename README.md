@@ -10,7 +10,6 @@ Installation Requirements
 - run ```bundle```
 - run ```createdb namegame_development```
 - run ```createdb namegame_test```
-- run  
 - run ```rackup```
 
 Testing
