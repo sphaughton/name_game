@@ -22,7 +22,7 @@ Name Game is tested with RSpec/Capybara. You can run these tests from the comman
 
 To Do
 ------
-- [ ] Travis CI build
+- [x] Travis CI build
 - [ ] CSS styling
 - [x] Fix missing image bug
 - [x] Fix currently failing Rspec ```name_game rb.10``` test
