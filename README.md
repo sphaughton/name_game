@@ -1,5 +1,6 @@
 [![Build Status](https://api.travis-ci.org/sphaughton/name_game.svg?branch=master)](https://travis-ci.org/sphaughton/name_game)
 [![Code Climate](https://codeclimate.com/github/sphaughton/name_game/badges/gpa.svg)](https://codeclimate.com/github/sphaughton/name_game)
+[![Test Coverage](https://codeclimate.com/github/sphaughton/name_game/badges/coverage.svg)](https://codeclimate.com/github/sphaughton/name_game/coverage)
 
 Name Game
 ======
