@@ -2,6 +2,10 @@ require 'capybara/rspec'
 require 'spec_helper'
 
 feature 'On the homepage' do
+  before(:each) do 
+    Maker.create(name: 'sean', path: '/public/images/sean.jpeg')
+  end
+  
   scenario 'the start a game button is available' do
     visit '/'
     expect(page).to have_content("Start Game")
