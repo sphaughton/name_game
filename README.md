@@ -23,6 +23,6 @@ To Do
 ------
 - [ ] Travis CI build
 - [ ] CSS styling
-- [ ] Fix missing image bug
+- [x] Fix missing image bug
 - [x] Fix currently failing Rspec ```name_game rb.10``` test
 - [ ] Make mobile responsive 
