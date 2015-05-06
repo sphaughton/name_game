@@ -2,8 +2,8 @@ require 'spec_helper'
 require 'pathname'
 
 describe Maker do
-  context 'Demonstration of how datamapper works' do
-    it 'should be created and then retrieved from the db' do
+  context 'When Datamapper is working successfully' do
+    it 'is created and then retrieved from the database' do
       path = Pathname.new("/public/images/badass.png")
       expect(Maker.count).to eq(0)
       Maker.create(name: 'Quokka', path: '/public/images/badass.png')
